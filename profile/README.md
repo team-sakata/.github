@@ -16,19 +16,23 @@ curated lists("awesome"), review repositories, and many more.
 
 ## Readings
 if you are interested to conduct any reading project, use [this template](https://github.com/team-sakata/TMPL-readings)
+
 精読輪読プロジェクトのレポジトリを作る時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-readings)を使ってください。
+
 - [NetworkScience by Barabasi](https://github.com/team-sakata/Readings-Barabasi-networkscience)
 - 
 
 ## review repositories
 if you are interested to conduct any reading project, use [this template](https://github.com/team-sakata/TMPL-literature-review)
+
 レビュレポを作る時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-literature-review)を使ってください。
+
 - [Sleeping Beauty by T.Miura](https://github.com/team-sakata/2023_Rev_MiuraTakahiro-1) - Sleeping beautyとは、長い間引用されない時間を経た後に、多くの引用を獲得するようになる論文である。
 
 ## splint-projects
 
 
-🌈 Contribution guidelines - how can the community get involved?
+# 🌈 Contribution guidelines - how can the community get involved?
 
 <!--
 このreadmeを編集すると、organizationの最初のページにいい感じに表示されます。
