@@ -16,7 +16,7 @@ curated lists("awesome"), review repositories, and many more.
 - [ML/NLP](https://github.com/team-sakata/awesome-ML-NLP)
 
 ## Readings
-if you are interested to conduct any reading project, use [this template](https://github.com/team-sakata/TMPL-readings)
+If you are interested in conducting any reading project, use [this template](https://github.com/team-sakata/TMPL-readings)
 
 精読輪読プロジェクトのレポジトリを作る時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-readings)を使ってください。
 
@@ -24,7 +24,7 @@ if you are interested to conduct any reading project, use [this template](https:
 - 
 
 ## review repositories
-if you are interested to conduct any reading project, use [this template](https://github.com/team-sakata/TMPL-literature-review)
+If you are interested in conducting any reviews or summaries, use [this template](https://github.com/team-sakata/TMPL-literature-review)
 
 レビュレポを作る時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-literature-review)を使ってください。
 
@@ -35,6 +35,10 @@ if you are interested to conduct any reading project, use [this template](https:
 - by 
 
 ## splint-projects
+
+If you are interested in conducting any splint projects, use [this template](https://github.com/team-sakata/TMPL-splint-project)
+
+スプリントプロジェクトを行う時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-splint-project)を使ってください。
 
 
 # 🌈 Contribution guidelines - how can the community get involved?
