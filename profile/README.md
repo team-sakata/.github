@@ -40,6 +40,7 @@ If you are interested in conducting any splint projects, use [this template](htt
 
 スプリントプロジェクトを行う時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-splint-project)を使ってください。
 
+- [研究室議論環境改善プロジェクト](https://github.com/team-sakata/2x-pj-lab_environment)
 
 # 🌈 Contribution guidelines - how can the community get involved?
 
