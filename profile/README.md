@@ -30,7 +30,9 @@ if you are interested to conduct any reading project, use [this template](https:
 
 - [Sleeping Beauty by T.Miura](https://github.com/team-sakata/2023_Rev_MiuraTakahiro-1) - Sleeping beautyとは、長い間引用されない時間を経た後に、多くの引用を獲得するようになる論文である。
 - Collective Review by C.Miura
-- 
+- by Tomokiyo
+- by Kishimoto
+- by 
 
 ## splint-projects
 
