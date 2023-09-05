@@ -10,6 +10,7 @@ We started in 2009, and our research lab, now in its 14th year of operation, com
 curated lists("awesome"), review repositories, and many more.
 
 ## Awesomes
+各輪読会の最後に時間をとって追記するようにしてください
 - [NetworkScience](https://github.com/team-sakata/awesome-NetworkScience)
 - [Science of Science](https://github.com/team-sakata/awesome-scisci)
 - [SNS](https://github.com/team-sakata/awesome-SNS)
