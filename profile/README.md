@@ -11,6 +11,7 @@ curated lists("awesome"), review repositories, and many more.
 
 ## Awesomes
 各輪読会の最後に時間をとって追記するようにしてください
+特にホットな研究者、データセット、論文について
 - [NetworkScience](https://github.com/team-sakata/awesome-NetworkScience)
 - [Science of Science](https://github.com/team-sakata/awesome-scisci)
 - [SNS](https://github.com/team-sakata/awesome-SNS)
