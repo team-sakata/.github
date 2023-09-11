@@ -11,7 +11,8 @@ curated lists("awesome"), review repositories, and many more.
 
 ## Awesomes
 各輪読会の最後に時間をとって追記するようにしてください
-特にホットな研究者、データセット、論文について
+
+特にホットな研究者、データセット、論文について各会で振り返って座長が追記してください。
 - [NetworkScience](https://github.com/team-sakata/awesome-NetworkScience)
 - [Science of Science](https://github.com/team-sakata/awesome-scisci)
 - [SNS](https://github.com/team-sakata/awesome-SNS)
@@ -30,9 +31,12 @@ If you are interested in conducting any reviews or summaries, use [this template
 
 ## splint-projects ("Splints")
 If you are interested in conducting any projects with one or more lab members, use [this template](https://github.com/team-sakata/TMPL-splint-project)
+
 研究室のメンバー１人以上と（つまりあなたも含めた2人以上のチームで行うということです）何か自分の研究に関連した、あるいは自分の研究以外のことがやりたい時にはスプリントプロジェクトになります。[こちらのテンプレート](https://github.com/team-sakata/TMPL-splint-project)を活用してください。
+
 Splints include but not confined to: 
-スプリントプロジェクトには例えば以下のようなものがあります
+
+スプリントプロジェクトには例えば以下のようなものがあります：
 - Readings (名著輪読)：厚くて、むずくて手がでない書籍や論文を複数人で分担して読み解きましょう。
 - HandsOn (ハンズオン)：気になるライブラリ、ソフトウェア、データセットを使ってみる会を開催します。
 - LabEnvironment (ラボ環境改善プロジェクト)：研究の生産性に直結する研究室の環境改善のアイデアを提示しましょう。
