@@ -23,25 +23,24 @@ If you are interested in conducting any reviews or summaries, use [this template
 レビュレポを作る時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-literature-review)を使ってください。
 - レビュレポ作成後、こちらの全体レポジトリに概要とリンクを一行で書いてください。
 
+**今までのレビュレポ Previous Review Repositories** 
 - [Sleeping Beauty by T.Miura](https://github.com/team-sakata/2023_Rev_MiuraTakahiro-1) - Sleeping beautyとは、長い間引用されない時間を経た後に、多くの引用を獲得するようになる論文である。
 - Collective Review by C.Miura
-- by Tomokiyo
-- by Kishimoto
-- by 
+-  by
 
-## splint-projects
-If you are interested in conducting any reading project, use [this template](https://github.com/team-sakata/TMPL-readings)
+## splint-projects ("Splints")
+If you are interested in conducting any projects with one or more lab members, use [this template](https://github.com/team-sakata/TMPL-splint-project)
+研究室のメンバー１人以上と（つまりあなたも含めた2人以上のチームで行うということです）何か自分の研究に関連した、あるいは自分の研究以外のことがやりたい時にはスプリントプロジェクトになります。[こちらのテンプレート](https://github.com/team-sakata/TMPL-splint-project)を活用してください。
+Splints include but not confined to: 
+スプリントプロジェクトには例えば以下のようなものがあります
+- Readings (名著輪読)：厚くて、むずくて手がでない書籍や論文を複数人で分担して読み解きましょう。
+- HandsOn (ハンズオン)：気になるライブラリ、ソフトウェア、データセットを使ってみる会を開催します。
+- LabEnvironment (ラボ環境改善プロジェクト)：研究の生産性に直結する研究室の環境改善のアイデアを提示しましょう。
 
-精読輪読プロジェクトのレポジトリを作る時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-readings)を使ってください。
-
+**今までのスプリントプロジェクト Previous Splints**
 - [NetworkScience by Barabasi](https://github.com/team-sakata/Readings-Barabasi-networkscience)
-- 
-If you are interested in conducting any splint projects, use [this template](https://github.com/team-sakata/TMPL-splint-project)
-
-スプリントプロジェクトを行う時は[こちらのテンプレート](https://github.com/team-sakata/TMPL-splint-project)を使ってください。
-
-- [研究室議論環境改善プロジェクト](https://github.com/team-sakata/2x-pj-lab_environment)
 - [Scisci Opendata Tutorial](https://github.com/team-sakata/Scisci-opendata-tutorial)
+- [研究室議論環境改善プロジェクト](https://github.com/team-sakata/2x-pj-lab_environment)
 
 # 🌈 Contribution guidelines - how can the community get involved?
 
