@@ -17,6 +17,7 @@ curated lists("awesome"), review repositories, and many more.
 - [Science of Science](https://github.com/team-sakata/awesome-scisci)
 - [SNS](https://github.com/team-sakata/awesome-SNS)
 - [ML/NLP](https://github.com/team-sakata/awesome-ML-NLP)
+- [Economics and Innovation](https://github.com/team-sakata/awesome-economics-innovation)
 
 ## review repositories
 If you are interested in conducting any reviews or summaries, use [this template](https://github.com/team-sakata/TMPL-literature-review)
