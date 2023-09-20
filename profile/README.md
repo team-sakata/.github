@@ -29,7 +29,7 @@ If you are interested in conducting any reviews or summaries, use [this template
 - [Sleeping Beauty by T.Miura](https://github.com/team-sakata/2023_Rev_MiuraTakahiro-1) - Sleeping beautyとは、長い間引用されない時間を経た後に、多くの引用を獲得するようになる論文である。
 - [Collective Review by C.Miura](https://github.com/team-sakata/2023_Rev_MiuraChiaki) - 査読者指名の必要も、査読負担もない、集合知による論文の質評価は可能か
 - [AI-supported Reserach Exploration by T.Miura](https://github.com/team-sakata/2023_Rev_MiuraTakahiro-2) - 機械学習・統計数理を用いて研究における仮説探索や発見支援を行う
-- [Urban Diversity by S.Kishimoto](https://github.com/team-sakata/2023_Rev_ShunKishimoto) - 都市の多様性に関する研究
+- [Urban Diversity by S.Kishimoto](https://github.com/team-sakata/2023_Rev_Kishimoto) - 都市の多様性に関する研究
 -  by
 
 ## splint-projects ("Splints")
