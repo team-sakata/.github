@@ -7,6 +7,18 @@ We started in 2009, and our research lab, now in its 14th year of operation, com
 # 👩‍💻 Useful resources
 curated lists("awesome"), review repositories, and many more.
 
+## Getting Started
+If you are a member of Sakata-Mori Lab, start by [setting up the server](https://github.com/team-sakata/ti_servers).
+You can see sample code in our repositories:
+
+- [Science of Science](https://github.com/team-sakata/detect_new_technologies/blob/main/analyze_new_cluster.ipynb) includes:
+  - processing Scopus data
+  - detect field
+  - clustering
+- Computational Social Science:
+  - Network Science: 
+  - Twitter Analysis:
+
 ## Awesomes
 New comment will be added at the end of each reading group. Reading meetups will be held every other week.
 Prevailing or attracting Datasets, Tools, Theses, and Researchers are the main entry to be added.
